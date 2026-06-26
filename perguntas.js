@@ -6,7 +6,7 @@ criaCartao(
 
 criaCartao(
     'História.',
-    'Qual foi a principal consequência da Revolução Industrial> para a sociedade europeia?',
+    'Qual foi a principal consequência da Revolução Industrial para a sociedade europeia?',
     'O crescimento das cidades, a expansão das fábricas e a formação da classe operária.'
 )
 
