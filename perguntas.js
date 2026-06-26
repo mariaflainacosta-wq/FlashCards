@@ -21,4 +21,13 @@ criaCartao(
     'O que caracteriza o Fordismo?',
     'Produção em massa, com linhas de montagem e padronização dos produtos.'
 )
-
+criaCartao(
+    'Espanhol',
+    'Qual é a forma correta do verbo “ser” na primeira pessoa do singular no presente?',
+    'Soy.'
+)
+criaCartao(
+    'Português',
+    'O que é um sujeito oculto?',
+    'Quando o sujeito não aparece na frase, mas pode ser identificado pelo contexto ou pela conjugação do verbo.'
+)
