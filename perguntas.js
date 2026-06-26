@@ -1,24 +1,24 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Física',
+    'O que é Força?',
+    'Uma interação que pode alterar o movimento ou a forma de um objeto.'
+)
+
+criaCartao(
+    'História.',
+    'Qual foi a principal consequência da Revolução Industrial> para a sociedade europeia?',
+    'O crescimento das cidades, a expansão das fábricas e a formação da classe operária.'
+)
+
+criaCartao(
+    'Sociologia',
+    'O conceito de alienação, desenvolvido por Karl Marx, refere-se principalmente a:',
+    'O afastamento do trabalhador do produto do seu trabalho, do processo produtivo e de sua própria condição humana.'
 )
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
-)
-
-criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
-)
-
-criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'O que caracteriza o Fordismo?',
+    'Produção em massa, com linhas de montagem e padronização dos produtos.'
 )
 
